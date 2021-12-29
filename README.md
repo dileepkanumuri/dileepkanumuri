@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dileepkanumuri
 - 👀 I’m interested in DATA Science & Analytics
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning about various Algorithms
 - 💞️ I’m looking to collaborate on any cutting edge technology projects.
 - 📫 How to reach me @dileepkanumuri1998@gmail.com
 
