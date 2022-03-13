@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dileepkanumuri
+- 👋 Hi, I’m @dileepkanumuri working as a Data Analyst
 - 👀 I’m interested in DATA Science & Analytics
 - 🌱 I’m currently learning about various Machine Learning
 - 💞️ I’m looking to collaborate on any cutting edge technology projects.
