@@ -4,7 +4,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/dileep-kanumuri-/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/prakharrathi14" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  <code><a href="https://twitter.com/DileepKanumuri?t=SVU7kUwxhbVIsA2HWzMszA&s=09" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h5>
 <h1 align="center">
@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 🔭 I’m currently working on independent research. 
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi)!
-- 🌱 I’m currently learning about Spatio-temporal analysis using R. 
-- 👯 I’m looking to collaborate on open source projects and NLProc Reasearch.
-- 🤔 I’m looking for help with being more productive during the pandemic. 
-- 📫 How to reach me: [pr440@snu.edu.in](mailto:pr440@snu.edu.in)
-- 📧 Check out my [portfolio website](https://prakharrathi25.netlify.app/) to get to know me better
+- 👋 Hi, I’m @dileepkanumuri working as a Guidewire Developer
+- 👀 Besides, I’m highly interested in DATA Science & Analytics
+- 🌱 I’m currently learning about self-driving cars and Tensorflow implementations.
+- 💞️ I’m looking to collaborate on any cutting-edge technology projects.
+- 🌱 I’m currently learning about Self Driving Cars, Spatio-temporal analysis, Human Evolution. 
+- 📫 How to reach me: [dileep.k1128@gmail.com](mailto:dileep.k1128@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am really into trekking
+- ⚡ Fun fact: I am really into books
 
 <br/>
 
