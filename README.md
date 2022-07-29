@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## Trophies
 <details><summary>Discover</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=prakharrathi25&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=dileepkanumuri&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
 ## Skills
