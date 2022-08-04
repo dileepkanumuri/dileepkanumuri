@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 ### Frameworks and libraries
 <p float="left">
-  <img alt="Guidewire" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Guidewire" src="https://img.shields.io/badge/Guidewire-%23000.svg?style=for-the-badge&logo=guidewire&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
