@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 ### Cloud and Hosting
 <p float="left">
-  <img alt="Microsoft Azure" src="ttps://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
                                                                                                                                      
