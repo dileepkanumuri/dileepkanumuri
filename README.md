@@ -18,7 +18,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/cse16504/count.svg"/></p>
 
 <!--
-**prakharrathi25/prakharrathi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dileepkanumuri/dileepkanumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <img alt="Gosu" src="https://img.shields.io/badge/Gosu-FFD43B?style=for-the-badge&logo=gosu&logoColor=darkgreen" />
 <img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 
 ### Cloud and Hosting
 <p float="left">
+  <img alt="Microsoft Azure" src="ttps://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
                                                                                                                                      
