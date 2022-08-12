@@ -15,7 +15,7 @@
 
 <h6> Quote Credits: Vsauce </h6> 
 
-<p align="center"><img src="https://profile-counter.glitch.me/cse16504/count.svg"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/dileepkanumuri/count.svg"/></p>
 
 <!--
 **dileepkanumuri/dileepkanumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
