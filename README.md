@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 👋 Hi, I’m @dileepkanumuri working as a Guidewire Developer
+- 👋 Hi, I’m @dileepkanumuri working as a Data Analyst & Guidewire Developer
 - 👀 Besides, I’m highly interested in DATA Science & Analytics
 - 🌱 I’m currently learning about self-driving cars and Tensorflow implementations.
 - 💞️ I’m looking to collaborate on any cutting-edge technology projects.
