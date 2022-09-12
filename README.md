@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 👋 Hi, I’m @dileepkanumuri a Data Science enthusiast and working as a Guidewire Application Developer
-- 👀 Besides, I’m highly interested in DATA Science & Analytics
+- 👋 Hi, I’m @dileepkanumuri working as a Guidewire Application Developer.
+- 👀 Besides, I’m highly interested in DATA Science & Analytics.
 - 🌱 I’m currently learning about self-driving cars and Tensorflow implementations.
 - 💞️ I’m looking to collaborate on any cutting-edge technology projects.
 - 🌱 I’m currently learning about Self Driving Cars, Spatio-temporal analysis, Human Evolution. 
 - 📫 How to reach me: [dileep.k1128@gmail.com](mailto:dileep.k1128@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am really into books
+- ⚡ Fun fact: I am really into books.
 
 <br/>
 
