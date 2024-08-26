@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 👋 Hi, I’m @dileepkanumuri working as a Guidewire Application Developer.
-- 👀 Besides, I’m highly interested in DATA Science & Analytics.
+- 👋 Hi, I’m @dileepkanumuri worked as a Data Engineer at EY and currently pursuing Masters in Data Science.
+- 👀 Besides, I’m highly interested in Statistics & Analytics.
 - 💞️ I’m looking to collaborate on any cutting-edge technology projects.
 - 🌱 I’m currently learning about Self Driving Cars, Spatio-temporal analysis, Human Evolution and Tensorflow implementations. 
 - 📫 How to reach me: [dileep.k1128@gmail.com](mailto:dileep.k1128@gmail.com)
