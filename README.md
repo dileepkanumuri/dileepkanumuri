@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Languages
 <p float="left">
-<img alt="Gosu" src="https://img.shields.io/badge/Gosu-FFD43B?style=for-the-badge&logo=gosu&logoColor=darkgreen" />
+<img alt="C#" src="https://img.shields.io/badge/Gosu-FFD43B?style=for-the-badge&logo=gosu&logoColor=darkgreen" />
 <img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
