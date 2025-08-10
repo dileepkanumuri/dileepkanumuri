@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 👋 Hi, I’m @dileepkanumuri, an Ex-Data Engineer at EY and currently pursuing Masters in Data Science.
+- 👋 Hi, I’m @dileepkanumuri, an Ex-Software Engineer at EY and currently pursuing Masters in Data Science.
 - 👀 Besides, I’m highly interested in Statistics & Analytics.
 - 💞️ I’m looking to collaborate on any cutting-edge technology projects.
 - 🌱 I’m currently learning about Self Driving Cars, Spatio-temporal analysis, Human Evolution and Tensorflow implementations. 
